@@ -134,6 +134,5 @@
     "docs:dev": "vitepress dev docs",
     "docs:build": "yarn run docs:api && vitepress build docs",
     "docs:preview": "vitepress preview docs"
-  },
-  "packageManager": "yarn@3.6.1"
+  }
 }
